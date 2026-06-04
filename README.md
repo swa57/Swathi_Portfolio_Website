@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Swathi K – Personal Portfolio
 
 A sleek, dark-themed personal portfolio website for AI/ML Engineer Swathi K.
@@ -53,3 +54,6 @@ To host this online for free:
 - **GitHub Pages**: Push to a GitHub repo → Settings → Pages → Deploy from branch
 - **Netlify**: Drag & drop the folder at netlify.com/drop
 - **Vercel**: Install Vercel CLI and run `vercel`
+=======
+# Swathi_Portfolio_Website
+>>>>>>> f6999271f517323e485ffd1412db7a0bf083fc15
